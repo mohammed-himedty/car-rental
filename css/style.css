@@ -114,7 +114,7 @@ body{
 .sec1{
     width: 100%;
     height: 100vh;
-    background-image: url(../image/bac1.jpg);
+    background-image: url(../image/bac1.webp);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -232,16 +232,16 @@ body{
     transition: .5s;
 }
 .sec2-div1{
-    background-image: url(../image/ramy-mamdouh-ns9ynpsS0II-unsplash.jpg);
+    background-image: url(../image/ramy-mamdouh-ns9ynpsS0II-unsplash.webp);
     background-size: cover;
 }
 .sec2-div2{
     margin: 0 5%;
-    background-image: url(../image/pexels-mikebirdy-112460.jpg);
+    background-image: url(../image/pexels-mikebirdy-112460.webp);
     background-size: cover;
 }
 .sec2-div3{
-    background-image: url(../image/pexels-martynas-linge-2836004-19587037[.jpg);
+    background-image: url(../image/pexels-martynas-linge-2836004-195870375.webp);
     background-size: cover;
 }
 .sec2-div-parent div i{
@@ -293,34 +293,34 @@ body{
     position: relative;
 }
 .sec3-div1{
-    background-image: url(../image/mercedes.png);
+    background-image: url(../image/mercedes.webp);
     background-size: cover;
     
 }
 .sec3-div2{
-    background-image: url(../image/bmw.png);
+    background-image: url(../image/bmw.webp);
     background-size: cover;
     margin: 0 5%;
     
 }
 .sec3-div3{
-    background-image: url(../image/ford1.png);
+    background-image: url(../image/ford1.webp);
     background-size: cover;
     
 }
 .sec3-div4{
-    background-image: url(../image/lexus.png);
+    background-image: url(../image/lexus.webp);
     background-size: cover;
     
 }
 .sec3-div5{
-    background-image: url(../image/gclass.png);
+    background-image: url(../image/gclass.webp);
     background-size: cover;
     margin: 0 5%;
     
 }
 .sec3-div6{
-    background-image: url(../image/ford.png);
+    background-image: url(../image/ford.webp);
     background-size: cover;
 }
 .sec3-div-overlay{
@@ -404,29 +404,29 @@ body{
     transition: .5s;
 }
 .sec4-div1{
-    background-image: url(../image/dubai.jpg);
+    background-image: url(../image/dubai.webp);
     background-size: cover;
 }
 .sec4-div2{
     margin: 0 5%;
-    background-image: url(../image/paris.jpg);
+    background-image: url(../image/paris.webp);
     background-size: cover;
 }
 .sec4-div3{
-    background-image: url(../image/marcin-nowak-iXqTqC-f6jI-unsplash.jpg);
+    background-image: url(../image/marcin-nowak-iXqTqC-f6jI-unsplash.webp);
     background-size: cover;
 }
 .sec4-div4{
-    background-image: url(../image/tokyo.jpg);
+    background-image: url(../image/tokyo.webp);
     background-size: cover;
 }
 .sec4-div5{
     margin: 0 5%;
-    background-image: url(../image/ryan-parker-mqpawAQXRyA-unsplash.jpg);
+    background-image: url(../image/ryan-parker-mqpawAQXRyA-unsplash.webp);
     background-size: cover;
 }
 .sec4-div6{
-    background-image: url(../image/newyork.jpg);
+    background-image: url(../image/newyork.webp);
     background-size: cover;
 }
 .sec4-div i{
@@ -525,7 +525,7 @@ body{
 .sec6{
     width: 100%;
     height: 50vh;
-    background-image: url(../image/kk.jpg);
+    background-image: url(../image/kk.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -659,7 +659,7 @@ body{
 .sec8{
     width: 100%;
     height: 60vh;
-    background-image: url(../image/k.jpg);
+    background-image: url(../image/k.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -693,7 +693,7 @@ body{
     border: 1px solid blueviolet;
     border-radius: 50%;
     float: left;
-    background-image: url(../image/face-3.jpg);
+    background-image: url(../image/face-3.webp);
     background-size: cover;
 }
 .sec8-circle1{
@@ -702,7 +702,7 @@ body{
     border: 1px solid blueviolet;
     border-radius: 50%;
     float: left;
-    background-image: url(../image/pexels-simon-robben-55958-614810.jpg);
+    background-image: url(../image/pexels-simon-robben-55958-614810.webp);
     background-size: cover;
 }
 .sec8-person-name{
