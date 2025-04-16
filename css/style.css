@@ -900,7 +900,8 @@ body{
 .footer{
     width: 100%;
     height: 40vh;
-    background-color:rgb(31, 31, 31);
+/*     background-color:rgb(31, 31, 31); */
+    background-color:021526;
     text-align: center;
     padding-top: 100px;
 }
